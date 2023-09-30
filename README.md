@@ -10,7 +10,7 @@ Tell us about your project here
 [4.Team Member 4](enter_github_profile_url)   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Embed the live link of project](https://www.figma.com/file/5gcLTAkLHxHUiBpeKrv6xm/AquaSolution?type=design&node-id=0%3A1&mode=design&t=zXRupCGAc1IL7knC-1)
 
 ## How it Works ?
 Explaining the working of project  
